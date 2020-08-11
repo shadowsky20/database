@@ -33,6 +33,5 @@
         "illuminate/events": "Required to use the observers with Eloquent (5.2.*).",
         "illuminate/filesystem": "Required to use the migrations (5.2.*).",
         "illuminate/pagination": "Required to paginate the result set (5.2.*)."
-    },
-    "minimum-stability": "dev"
+    }
 }
