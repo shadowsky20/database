@@ -35,5 +35,4 @@
         "illuminate/pagination": "Required to paginate the result set (5.2.*)."
     },
     "minimum-stability": "dev"
-    }
 }
